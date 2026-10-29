@@ -127,7 +127,7 @@ Deployment steps:
 4. Deploy the application.
 5. Add the live deployment URL below once deployment succeeds.
 
-**Live Demo:** `Add your deployed website URL here`
+**Live Demo:** `https://campus-pe-landing.vercel.app/`
 
 **GitHub Repository:** `https://github.com/prakhar7543/campusPe-Landing`
 
