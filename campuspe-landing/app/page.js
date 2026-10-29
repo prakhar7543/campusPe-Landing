@@ -705,7 +705,9 @@ function ResumeSection() {
               ↑
             </span>
             <h3>Upload your resume</h3>
-            <p>PDF, DOC or DOCX · Up to 5 MB · We'll use it to understand your skills and experience.</p>
+           <p>
+  PDF, DOC or DOCX · Up to 5 MB · We&apos;ll use it to understand your skills and experience.
+</p>
           </div>
 
           <div className="resume-floating-badge resume-match-badge">
